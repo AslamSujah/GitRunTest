@@ -1,1 +1,3 @@
 Refer the Document before install.
+
+Download it from cloud url provided
